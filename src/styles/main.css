@@ -1,0 +1,9 @@
+body {
+  max-width: 640px;
+  margin: 0 auto;
+  background: #fff;
+}
+
+.todoapp h1 {
+  top: -100px;
+}
